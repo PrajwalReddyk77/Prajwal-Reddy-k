@@ -1,6 +1,16 @@
-# Prajwal-Reddy-k
+| Problem | File Name       | Description |
+|--------|----------------|-------------|
+| 1       | Problem1.java  | Calculator performing +, -, *, / based on user input 
+| 2       | Problem2.java  | Prints odd number pattern up to input value 
+| 3       | Problem3.java  | 
+| 4       | Problem4.java  | 
 
-Name : Prajwal Reddy K  
-Language Used: Java  
-Total Problems: 4 
+Running the Programs
+
+Make sure Java is installed.  
+Then use the following commands:
+
+```bash
+javac Problem1.java
+java Problem1
 
